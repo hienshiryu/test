@@ -1,32 +1,32 @@
 .item1{
   grid-area: header;
-  height: 60px;
-  line-height: 60px;
+  height: 100px;
+  line-height: 100px;
 }
 .item2{
   grid-area: navigation;
-  height: 50px;
-  line-height: 50px;
+  height: 60px;
+  line-height: 60px;
 }
 .item3{
   grid-area: sidebar;
-  height: 350px;
-  line-height: 350px;
+  height: 400px;
+  line-height: 400px;
 }
 .item4{
   grid-area: main;
-  height: 350px;
-  line-height: 350px;
+  height: 400px;
+  line-height: 400px;
 }
 .item5{
   grid-area: advertsing;
-  height: 350px;
-  line-height: 350px;
+  height: 400px;
+  line-height: 400px;
 }
 .item6{
   grid-area: footer;
-  height: 60px;
-  line-height: 60px;
+  height: 80px;
+  line-height: 80px;
 }
 .grid-container{
   display: grid;
